@@ -1,4 +1,8 @@
-## Comandos:
+# BNT BOT
+
+Bot ainda em construção, futuramente com mais funções. 
+
+## Comandos NODE.JS:
 
 <pre>
 npm init
